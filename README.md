@@ -122,4 +122,3 @@ python app.py
 
 ---
 
-*Last updated: 2024 — TradeInsight DB Lab Project*
