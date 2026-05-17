@@ -1,0 +1,57 @@
+NOTE: The final_erd.png file should be generated from the ERD description 
+in erd_description.md using a diagramming tool such as:
+
+  - draw.io (free, recommended): https://draw.io
+  - dbdiagram.io: https://dbdiagram.io
+  - MySQL Workbench (built-in EER diagram tool)
+  - Lucidchart
+
+Use the entity definitions and relationships documented in erd_description.md
+to draw the ERD in Crow's Foot notation and export as final_erd.png.
+
+For dbdiagram.io, use this DBML:
+
+Table users {
+  UserID int [pk, increment]
+  Name varchar(100) [not null]
+  Email varchar(150) [unique, not null]
+  Password varchar(255) [not null]
+  CreatedAt datetime [not null]
+}
+
+Table strategies {
+  StrategyID int [pk, increment]
+  StrategyName varchar(100) [unique, not null]
+  Description text
+}
+
+Table assets {
+  AssetID int [pk, increment]
+  AssetName varchar(50) [unique, not null]
+  MarketType varchar(30) [not null, note: 'Forex / Crypto / Stock']
+}
+
+Table trade_types {
+  TypeID int [pk, increment]
+  TypeName varchar(50) [unique, not null]
+}
+
+Table trades {
+  TradeID int [pk, increment]
+  UserID int [ref: > users.UserID]
+  StrategyID int [ref: > strategies.StrategyID]
+  AssetID int [ref: > assets.AssetID]
+  TypeID int [ref: > trade_types.TypeID]
+  EntryPrice decimal(15,4) [not null]
+  ExitPrice decimal(15,4) [not null]
+  Quantity decimal(15,4) [not null]
+  ProfitLoss decimal(15,2) [not null]
+  TradeDate datetime [not null]
+}
+
+Table journal_notes {
+  NoteID int [pk, increment]
+  TradeID int [ref: > trades.TradeID]
+  NoteText text [not null]
+  Emotion varchar(50)
+}
