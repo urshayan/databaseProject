@@ -1,0 +1,16 @@
+AssetID,AssetName,MarketType
+1,EUR/USD,Forex
+2,GBP/USD,Forex
+3,USD/JPY,Forex
+4,AUD/USD,Forex
+5,USD/CHF,Forex
+6,BTC/USD,Crypto
+7,ETH/USD,Crypto
+8,BNB/USD,Crypto
+9,SOL/USD,Crypto
+10,XRP/USD,Crypto
+11,AAPL,Stock
+12,TSLA,Stock
+13,GOOGL,Stock
+14,AMZN,Stock
+15,MSFT,Stock

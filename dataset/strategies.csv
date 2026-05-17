@@ -1,0 +1,11 @@
+StrategyID,StrategyName,Description
+1,Trend Following,Enter trades in the direction of the prevailing market trend using moving averages and momentum indicators.
+2,Breakout Trading,Buy or sell when price breaks through a key support or resistance level with strong volume confirmation.
+3,Scalping,Execute many small trades capturing minor price movements within very short timeframes.
+4,Swing Trading,Hold positions for several days to capture medium-term price swings within a trend.
+5,Mean Reversion,Bet that price will revert to its historical average after deviating significantly.
+6,News Trading,Enter trades immediately following high-impact economic news releases or earnings announcements.
+7,Range Trading,Buy at established support and sell at resistance in a clearly defined sideways market.
+8,Position Trading,Long-term trades held for weeks or months based on fundamental and macro analysis.
+9,VWAP Strategy,Use Volume Weighted Average Price as a benchmark to time intraday entries and exits.
+10,RSI Divergence,Identify divergence between RSI oscillator and price action to anticipate reversals.

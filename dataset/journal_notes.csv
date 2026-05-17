@@ -1,0 +1,61 @@
+NoteID,TradeID,NoteText,Emotion
+1,77,Woke up early for the London open and the setup was exactly as expected.,Focused
+2,37,Macro environment is tough. Reduced position size to stay conservative.,Cautious
+3,13,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+4,25,Woke up early for the London open and the setup was exactly as expected.,Focused
+5,38,Reviewed my last 10 trades before this one. Much more prepared.,Analytical
+6,30,Felt rushed going in. The setup was not 100% there but took the trade anyway.,Anxious
+7,47,Reviewed my last 10 trades before this one. Much more prepared.,Analytical
+8,23,Held too long hoping for more profit. Should have respected my take-profit level.,Greedy
+9,39,Revenge traded after a losing session. Doubled down and made it worse.,Impulsive
+10,2,Revenge traded after a losing session. Doubled down and made it worse.,Impulsive
+11,69,Emotionally difficult session. Three losses in a row really tested my patience.,Stressed
+12,17,Great trade. The trend continuation signal was clean and execution was smooth.,Happy
+13,36,News came out unexpected and hit my stop. Nothing I could have done differently.,Frustrated
+14,6,Perfect execution. Used VWAP as a guide and the trade played out textbook.,Proud
+15,7,News came out unexpected and hit my stop. Nothing I could have done differently.,Frustrated
+16,76,Felt overconfident after a winning streak and sized up too large.,Overconfident
+17,70,Great trade. The trend continuation signal was clean and execution was smooth.,Happy
+18,41,News came out unexpected and hit my stop. Nothing I could have done differently.,Frustrated
+19,56,Followed the plan perfectly. Entered at the breakout and exited with discipline.,Confident
+20,49,Macro environment is tough. Reduced position size to stay conservative.,Cautious
+21,32,Took profits too early. The trend continued for another 200 pips.,Regretful
+22,66,Reviewed my last 10 trades before this one. Much more prepared.,Analytical
+23,62,Broke my own rule about trading on Mondays. Paid the price.,Disciplined
+24,1,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+25,79,Felt rushed going in. The setup was not 100% there but took the trade anyway.,Anxious
+26,19,Perfect execution. Used VWAP as a guide and the trade played out textbook.,Proud
+27,31,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+28,54,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+29,29,Took profits too early. The trend continued for another 200 pips.,Regretful
+30,22,Great trade. The trend continuation signal was clean and execution was smooth.,Happy
+31,12,Perfect execution. Used VWAP as a guide and the trade played out textbook.,Proud
+32,4,Emotionally difficult session. Three losses in a row really tested my patience.,Stressed
+33,64,Woke up early for the London open and the setup was exactly as expected.,Focused
+34,53,Revenge traded after a losing session. Doubled down and made it worse.,Impulsive
+35,8,Macro environment is tough. Reduced position size to stay conservative.,Cautious
+36,5,Held too long hoping for more profit. Should have respected my take-profit level.,Greedy
+37,26,Felt overconfident after a winning streak and sized up too large.,Overconfident
+38,60,Perfect execution. Used VWAP as a guide and the trade played out textbook.,Proud
+39,45,Cut the loss quickly. No regrets — capital preservation is the priority.,Calm
+40,58,Emotionally difficult session. Three losses in a row really tested my patience.,Stressed
+41,61,Cut the loss quickly. No regrets — capital preservation is the priority.,Calm
+42,10,Great trade. The trend continuation signal was clean and execution was smooth.,Happy
+43,72,Felt rushed going in. The setup was not 100% there but took the trade anyway.,Anxious
+44,63,News came out unexpected and hit my stop. Nothing I could have done differently.,Frustrated
+45,20,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+46,67,Reviewed my last 10 trades before this one. Much more prepared.,Analytical
+47,16,Woke up early for the London open and the setup was exactly as expected.,Focused
+48,46,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+49,27,Took profits too early. The trend continued for another 200 pips.,Regretful
+50,68,Held too long hoping for more profit. Should have respected my take-profit level.,Greedy
+51,74,Took profits too early. The trend continued for another 200 pips.,Regretful
+52,44,The RSI divergence setup was textbook. Entry and exit both timed well.,Satisfied
+53,75,Distracted during this trade. Should have waited for better confirmation.,Unfocused
+54,33,Emotionally difficult session. Three losses in a row really tested my patience.,Stressed
+55,80,This setup reminded me why I love breakout trading. Clean and decisive.,Excited
+56,48,Felt overconfident after a winning streak and sized up too large.,Overconfident
+57,78,Broke my own rule about trading on Mondays. Paid the price.,Disciplined
+58,15,Took profits too early. The trend continued for another 200 pips.,Regretful
+59,73,Great trade. The trend continuation signal was clean and execution was smooth.,Happy
+60,65,Reviewed my last 10 trades before this one. Much more prepared.,Analytical

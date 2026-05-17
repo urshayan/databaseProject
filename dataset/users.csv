@@ -1,0 +1,21 @@
+UserID,Name,Email,Password,CreatedAt
+1,Shayan Ijaz,shayan.ijaz@tradeinsight.com,hashed_shayan_2824,2022-06-13 00:00:00
+2,Huzaima Zakir,huzaima.zakir@tradeinsight.com,hashed_huzaima_5506,2022-10-04 00:00:00
+3,Omar Sheikh,omar.sheikh@tradeinsight.com,hashed_omar_4657,2022-08-11 00:00:00
+4,Bilal Khan,bilal.khan@tradeinsight.com,hashed_bilal_2679,2023-05-13 00:00:00
+5,Farrukh Malik,farrukh.malik@tradeinsight.com,hashed_farrukh_9935,2022-07-15 00:00:00
+6,Nadia Akhtar,nadia.akhtar@tradeinsight.com,hashed_nadia_7912,2022-06-17 00:00:00
+7,Sara Qureshi,sara.qureshi@tradeinsight.com,hashed_sara_1488,2022-07-18 00:00:00
+8,Zara Hussain,zara.hussain@tradeinsight.com,hashed_zara_4582,2022-09-28 00:00:00
+9,Ahmed Siddiqui,ahmed.siddiqui@tradeinsight.com,hashed_ahmed_9279,2023-04-05 00:00:00
+10,Hamza Baig,hamza.baig@tradeinsight.com,hashed_hamza_1434,2023-03-15 00:00:00
+11,Usman Chaudhry,usman.chaudhry@tradeinsight.com,hashed_usman_4257,2023-06-02 00:00:00
+12,Ayesha Mirza,ayesha.mirza@tradeinsight.com,hashed_ayesha_9928,2023-01-01 00:00:00
+13,Rida Rafiq,rida.rafiq@tradeinsight.com,hashed_rida_4611,2023-01-16 00:00:00
+14,Ali Naqvi,ali.naqvi@tradeinsight.com,hashed_ali_5557,2022-06-04 00:00:00
+15,Tariq Abbasi,tariq.abbasi@tradeinsight.com,hashed_tariq_3615,2023-05-24 00:00:00
+16,Hassan Farooqi,hassan.farooqi@tradeinsight.com,hashed_hassan_7924,2022-11-22 00:00:00
+17,Imran Butt,imran.butt@tradeinsight.com,hashed_imran_5552,2022-08-19 00:00:00
+18,Sana Rizvi,sana.rizvi@tradeinsight.com,hashed_sana_4527,2023-06-26 00:00:00
+19,Kamran Javed,kamran.javed@tradeinsight.com,hashed_kamran_6514,2022-07-23 00:00:00
+20,Mariam Tahir,mariam.tahir@tradeinsight.com,hashed_mariam_2519,2022-12-12 00:00:00
